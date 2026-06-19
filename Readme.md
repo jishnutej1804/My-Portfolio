@@ -1,3 +1,5 @@
+> 💻 **Optimized Display Notice:** For the ultimate visual experience with full glassmorphic layouts and animations, viewing this portfolio on a **desktop or laptop screen** is highly recommended.
+
 # 🌌 Personal Portfolio Website
 
 A sleek, premium, single-page developer portfolio designed with a modern glassmorphic UI. This project serves as a centralized hub to showcase engineering milestones, academic background, certified skill sets, and technical projects.
