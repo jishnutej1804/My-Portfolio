@@ -69,8 +69,8 @@ const App = {
                 <div class="hero-socials">
                   <a href="${PortfolioData.contact.linkedin}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
                   <a href="${PortfolioData.contact.github}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                  <a href="https://leetcode.com" target="_blank" title="LeetCode"><i class="fas fa-code"></i></a>
-                  <a href="https://hackerrank.com" target="_blank" title="HackerRank"><i class="fab fa-hackerrank"></i></a>
+                  <a href="https://leetcode.com/u/24A31A05im" target="_blank" title="LeetCode"><i class="fas fa-code"></i></a>
+                  <a href="https://www.hackerrank.com/profile/24A31A05IM" target="_blank" title="HackerRank"><i class="fab fa-hackerrank"></i></a>
                 </div>
               </div>
             </div>
